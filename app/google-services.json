@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "545203609993",
+    "project_id": "readox-c0dbd",
+    "storage_bucket": "readox-c0dbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545203609993:android:cabb27eb1ddce44b858158",
+        "android_client_info": {
+          "package_name": "com.example.readox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545203609993-igh6pan9r9slahekqs9n5c3rdejs4psb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.readox",
+            "certificate_hash": "703eda00e96855cdc7bdb89d50c71016272921a0"
+          }
+        },
+        {
+          "client_id": "545203609993-0sakgeu21rj4kruk697tbt41ucrsg9a4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLBotA6dDm4LayZ9ntAb9M3Vhw-Rq3Abs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545203609993-0sakgeu21rj4kruk697tbt41ucrsg9a4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

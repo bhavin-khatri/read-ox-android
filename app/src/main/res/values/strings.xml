@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">ReadOx</string>
+    <string name="new_user_signup">New User? <b>SignUp</b></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="pleaseLogin">Please Login</string>
+    <string name="hintEmail">Email</string>
+    <string name="btnTxtLogin">Login</string>
+    <string name="txtNo">NO</string>
+    <string name="txtYes">YES</string>
+    <string name="txtSettings">Go To Settings</string>
+    <string name="txtCancel">Cancel</string>
+    <string name="txtRetry">Retry</string>
+    <string name="btnTextSubmit">Submit</string>
+    <string name="btnTextRead">Read</string>
+    <string name="btnTextDownload">Download</string>
+    <string name="labelNoBooksFound">No Book found</string>
+    <string name="labelSearchBook">Search Books Here</string>
+    <string name="labelBookList">Book List</string>
+
+<!--Welcome Page-->
+
+    <string name="txtPoint1">• Easily find the book you are looking for.</string>
+    <string name="txtPoint2">• Read more than 100 EBooks for free.</string>
+    <string name="txtPoint3">• Download EBooks anytime anywhere.</string>
+
+<!-- Admin   -->
+<!-- Dashboard -->
+    <string name="labelNoCategoryFound">No Category found</string>
+    <string name="labelSearchCategory">Search Category Here</string>
+    <string name="btnAddCategory">+ Add Category</string>
+<!--  Add Category  -->
+    <string name="titleAddCategory">Add New Category</string>
+    <string name="labelCategoryTitle">Enter Category Title</string>
+<!--  Add Book  -->
+    <string name="titleAddNewBook">Add New Book</string>
+    <string name="btnTxtAddBook">Add Book</string>
+    <string name="labelBookTitle">Enter Book Title</string>
+    <string name="labelBookDescription">Enter Book Description</string>
+    <string name="labelSelectBookCategory">Select Category</string>
+<!--  Book Details  -->
+    <string name="titleBookDetails">Books Details</string>
+    <string name="labelBookCategory">Category:</string>
+    <string name="labelBookDate">Date:</string>
+    <string name="labelBookSize">Size:</string>
+    <string name="labelBookViews">Views:</string>
+    <string name="labelBookDownloads">Downloads:</string>
+    <string name="labelBriefAboutBook">Brief About Book</string>
+    <string name="titleReadBook">Read Book</string>
+
+
+    <string name="no_internet_title">No Internet Connectivity</string>
+    <string name="no_internet_description">Please Check Your Internet Connectivity And Try Again</string>
+<!-- Logout   -->
+    <string name="logout_title">Logout</string>
+    <string name="logout_description">Are You Sure You Want To Logout ?</string>
+<!-- Exit   -->
+    <string name="exit_title">Exit</string>
+    <string name="exit_description">Are You Sure You Want To Exit ?</string>
+<!--Custom Theme Values-->
+    <string name="red">Red</string>
+    <string name="orange">Orange</string>
+
+<!-- Toast Messages -->
+    <string name="errEnterCategoryTitle">Please enter category title</string>
+    <string name="errEnterBookTitle">Please enter book title</string>
+    <string name="errEnterBookDesc">Please enter book description</string>
+    <string name="errSelectBookCategory">Please select category</string>
+    <string name="errAttachBook">Please attach book</string>
+    <string name="errCancelPickingBook">Canceled Picking Book</string>
+    <string name="msgBookUploadFailed">Book upload failed due to</string>
+    <string name="msgBookUploadSuccess">Book Uploaded Successfully</string>
+    <string name="msgCategoryUploadSuccess">Category Added Successfully...</string>
+
+
+</resources>

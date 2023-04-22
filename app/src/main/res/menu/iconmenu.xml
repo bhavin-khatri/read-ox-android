@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_guide"
+        android:icon="@drawable/ic_readox_black"
+        android:title="About ReadOx"/>
+<!--    <item android:id="@+id/menu_donate"-->
+<!--        android:icon="@drawable/ic_donate_black"-->
+<!--        android:title="Make a Donation"/>-->
+</menu>

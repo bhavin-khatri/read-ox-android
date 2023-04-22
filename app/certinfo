@@ -1,0 +1,4 @@
+storeFile file("certificate.jks")
+storePassword "301100"
+keyAlias "readOx"
+keyPassword "301100"
